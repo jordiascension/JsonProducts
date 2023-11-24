@@ -1,0 +1,33 @@
+{
+  "products":{
+     "data":{
+        "items":[
+           {
+              "id":"1AT",
+              "category":"accessories",
+              "dicount":"10%"
+           },
+           {
+              "id":"1FG",
+              "category":"apparel",
+              "dicount":"5%"
+           },
+           {
+              "id":"1GS",
+              "category":"bags",
+              "dicount":"3%"
+           },
+           {
+              "id":"1EF",
+              "category":"drinkware",
+              "dicount":"8%"
+           },
+           {
+              "id":"1FS",
+              "category":"office",
+              "dicount":"2%"
+           }
+        ]
+     }
+  }
+}
